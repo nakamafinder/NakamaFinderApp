@@ -9,3 +9,6 @@
   "author": "",
   "license": "ISC"
 }
+"publishConfig": {
+  "@nakamafinder:registry": "https://npm.pkg.github.com"
+}
