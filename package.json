@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "@nakamafinder:registry": "https://npm.pkg.github.com"
+  },
+
   "author": "",
   "license": "ISC"
+
 }
+
